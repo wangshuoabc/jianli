@@ -1,0 +1,36 @@
+html{width: 800px;
+    height:1400px;
+    margin: 0 auto;
+    background-color:aliceblue;
+}
+body {padding: 20px;
+    height: 1000px;
+    background-color: orange;
+    font-size: 16px;
+}
+header h1{font-size:30px;
+    width: 180px;
+    color: rgba(4, 4, 4, 0.69);
+    margin:  0 20px 0 40px ;
+    border-right: 4px solid rgba(4, 4, 4, 0.69);
+    float: left;
+}
+header p{color: rgba(4, 4, 4, 0.69);
+    line-height:60px;
+}
+h2{font-size: 20px; ;
+    padding: 0 0 0 20px;
+    margin:10px 0 10px 0;
+    color: black;
+    border-bottom: 3px solid #2f3a71;
+
+}
+.one{width:500px;
+    padding: 0 0 0 20px;}
+dt{width: 250px;
+    float: left;
+}
+ul{margin: 0 0 0 20px;
+}
+div{padding: 0 0 0 20px;
+}
